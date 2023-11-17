@@ -1,0 +1,5 @@
+/users.db
+/.env
+/venv/
+/.idea/
+/tests.py
